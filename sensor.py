@@ -5,7 +5,7 @@ from datetime import datetime
 #Logging Settings
 FILENAME = "/home/pi/Desktop/SenseHatLogging/log"
 WRITE_FREQUENCY = 50 #adds 50 lines to file at once
-dateString = '%Y/%m/%d %H:%M:%S'
+dateString = '%Y/%m/%d:%H:%M:%S'
 
 
 #FUNCTIONS
